@@ -1,0 +1,3 @@
+Max Steps Reached: 8400511: 685 steps; 159,424,614,880 reached
+Max Number Reached: 6631675: 576 steps; 60,342,610,919,632 reached
+Total Computations Performed: 1,552,724,831
